@@ -1,9 +1,11 @@
-ids = [1 , 2, 3, 4, 5, 6]
+ids = [1 , 2, 3, 4]
 languages = [
     'Python',
     'Javascript',
     'Golang',
     'Rust',
+    'C',
+    'Smalltalk'
 ]
 
 twitter_data = [{
